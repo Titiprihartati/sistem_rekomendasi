@@ -1,0 +1,121 @@
+product_id,title,rating,sales,query
+p001,Beras Merah Organik 1kg,4.6,420,beli beras merah organik
+p002,Beras Putih Premium 5kg,4.7,1350,cari beras putih kualitas premium
+p003,Padi IR64 Kualitas Unggul,4.2,390,padi unggul ir64 buat tani
+p004,Beras Premium Cap Gunung 5kg,4.8,1600,beli beras premium cap gunung
+p005,Beras Coklat Organik 2kg,4.4,570,beras coklat sehat untuk diet
+p006,Padi Lokal IR42,4.1,280,padi lokal ir42 panen bagus
+p007,Beras Hitam Ketan 1kg,4.5,460,beras hitam ketan untuk kue
+p008,Padi Hibrida Inpari 32,4.0,240,padi inpari 32 untuk hasil besar
+p009,Beras Putih Cap Ayam 10kg,4.3,1120,beli beras cap ayam 10 kilo
+p010,Beras Pandan Wangi 5kg,4.9,1750,beras pandan wangi aromatik
+p011,Padi IR42 Grade B,4.0,300,cari benih padi ir42 grade b
+p012,Beras Rendah Gula Cap Sehat,4.6,680,beras sehat rendah gula
+p013,Beras Organik Cap Daun 2kg,4.7,700,beras organik cap daun 2 kilo
+p014,Padi Gogo Tahan Kering,3.9,220,padi gogo cocok untuk lahan kering
+p015,Beras Super IR64 Cap Kupu,4.5,900,beras super ir64 cap kupu
+p016,Beras Putih Medium 5kg,4.2,1040,beras putih medium isi 5kg
+p017,Padi Inpari 30 Non-GMO,4.1,310,cari padi non gmo inpari 30
+p018,Beras Merah Cap Daun 1kg,4.3,510,beras merah sehat 1 kilo
+p019,Beras Diet Sehat Kalori Rendah,4.6,580,beras untuk diet kalori rendah
+p020,Padi Organik Subur Makmur,4.4,260,benih padi organik subur makmur
+p021,Beras Hitam Superfood 2kg,4.8,640,beras hitam superfood untuk sehat
+p022,Beras Pandan Wangi Cap Gajah 5kg,4.9,1850,beras pandan wangi cap gajah
+p023,Padi Coklat Lokal,4.1,200,padi coklat hasil petani lokal
+p024,Beras Cap Jempol Medium 5kg,4.3,890,beras jempol kualitas medium
+p025,Beras IR64 Lokal 10kg,4.2,940,beras ir64 lokal 10 kilo
+p026,Padi Petani Mandiri IR64,3.8,210,benih padi ir64 petani mandiri
+p027,Beras Organik Cap Daun 5kg,4.7,830,beras organik cap daun besar
+p028,Beras Ketan Hitam Cap Bulan 2kg,4.5,520,beli beras ketan hitam cap bulan
+p029,Padi Inpari 32 Anti Hama,4.0,330,benih inpari 32 tahan hama
+p030,Beras Wangi Thailand Import 5kg,4.9,1680,beras wangi thailand import asli
+p031,Beras Organik Kualitas Premium 3kg,4.7,740,beras organik kualitas premium
+p032,Padi IR64 Super,4.3,410,padi ir64 super hasil panen tinggi
+p033,Beras Putih Cap Ayam 2kg,4.5,920,beras putih cap ayam 2 kilo
+p034,Beras Merah Organik Cap Gajah,4.6,560,beras merah organik cap gajah
+p035,Padi Hibrida IR64 1kg,4.0,250,padi hibrida ir64 untuk panen besar
+p036,Beras Hitam Organik 1.5kg,4.8,480,beras hitam organik untuk kesehatan
+p037,Beras Coklat Premium 4kg,4.4,600,beras coklat premium 4 kilo
+p038,Padi Lokal IR42 Unggul,4.2,370,padi lokal ir42 unggul hasil panen
+p039,Beras Putih Medium Cap Jempol,4.3,1020,beras putih medium cap jempol
+p040,Beras Pandan Wangi Super,4.9,1700,beras pandan wangi super aroma harum
+p041,Padi IR42 Grade A,4.1,300,padi ir42 grade a untuk petani
+p042,Beras Organik Cap Daun 1kg,4.6,690,beras organik cap daun 1 kilo
+p043,Beras Diet Rendah Kalori,4.7,580,beras diet rendah kalori sehat
+p044,Padi Gogo Tahan Kekeringan,3.9,230,padi gogo tahan kekeringan
+p045,Beras Super IR64 Cap Kupu-Kupu,4.5,940,beras super ir64 cap kupu-kupu
+p046,Beras Putih Premium 10kg,4.2,1080,beras putih premium 10 kilo
+p047,Padi Inpari 30 Non GMO,4.0,320,padi inpari 30 non gmo benih unggul
+p048,Beras Merah Organik Cap Daun,4.3,500,beras merah organik cap daun
+p049,Beras Diet Sehat 1kg,4.6,600,beras diet sehat 1 kilo
+p050,Padi Organik Subur Makmur,4.4,270,padi organik subur makmur
+p051,Beras Hitam Superfood 3kg,4.8,650,beras hitam superfood sehat
+p052,Beras Pandan Wangi Cap Gajah,4.9,1800,beras pandan wangi cap gajah
+p053,Padi Coklat Lokal Unggul,4.1,220,padi coklat lokal unggul
+p054,Beras Cap Jempol Medium 10kg,4.3,900,beras cap jempol medium 10 kilo
+p055,Beras IR64 Lokal Super,4.2,950,beras ir64 lokal super
+p056,Padi Petani Mandiri IR64,3.8,210,padi petani mandiri ir64
+p057,Beras Organik Cap Daun 4kg,4.7,850,beras organik cap daun 4 kilo
+p058,Beras Ketan Hitam Cap Bulan,4.5,530,beras ketan hitam cap bulan
+p059,Padi Inpari 32 Anti Hama,4.0,350,padi inpari 32 tahan hama
+p060,Beras Wangi Thailand Import 5kg,4.9,1650,beras wangi thailand import asli
+p061,Beras Super Premium 5kg,4.8,1200,beras super premium 5 kilo
+p062,Padi IR64 Unggul,4.3,450,padi ir64 unggul panen melimpah
+p063,Beras Putih Cap Ayam 7kg,4.5,1100,beras putih cap ayam 7 kilo
+p064,Beras Merah Organik 3kg,4.6,700,beras merah organik 3 kilo
+p065,Padi Hibrida Inpari 30,4.0,260,padi hibrida inpari 30 bagus
+p066,Beras Hitam Ketan Organik 2kg,4.8,500,beras hitam ketan organik
+p067,Beras Coklat Sehat 3kg,4.4,630,beras coklat sehat 3 kilo
+p068,Padi Lokal IR42 Unggul,4.2,390,padi lokal ir42 unggul
+p069,Beras Putih Medium 7kg,4.3,1050,beras putih medium 7 kilo
+p070,Beras Pandan Wangi Super,4.9,1720,beras pandan wangi super
+p071,Padi IR42 Grade B,4.1,310,padi ir42 grade b
+p072,Beras Rendah Gula Cap Sehat 3kg,4.6,700,beras rendah gula cap sehat
+p073,Beras Organik Cap Daun 3kg,4.7,720,beras organik cap daun 3 kilo
+p074,Padi Gogo Tahan Kekeringan,3.9,240,padi gogo tahan kekeringan
+p075,Beras Super IR64 Cap Kupu 3kg,4.5,910,beras super ir64 cap kupu
+p076,Beras Putih Medium 10kg,4.2,1100,beras putih medium 10 kilo
+p077,Padi Inpari 30 Non GMO,4.0,320,padi inpari 30 non gmo
+p078,Beras Merah Cap Daun 2kg,4.3,520,beras merah cap daun 2 kilo
+p079,Beras Diet Sehat Kalori Rendah 2kg,4.6,590,beras diet kalori rendah 2 kilo
+p080,Padi Organik Subur Makmur 3kg,4.4,280,padi organik subur makmur 3 kilo
+p081,Beras Hitam Superfood 3kg,4.8,670,beras hitam superfood 3 kilo
+p082,Beras Pandan Wangi Cap Gajah 7kg,4.9,1900,beras pandan wangi cap gajah 7 kilo
+p083,Padi Coklat Lokal Unggul 3kg,4.1,230,padi coklat lokal unggul 3 kilo
+p084,Beras Cap Jempol Medium 7kg,4.3,880,beras cap jempol medium 7 kilo
+p085,Beras IR64 Lokal 7kg,4.2,930,beras ir64 lokal 7 kilo
+p086,Padi Petani Mandiri IR64 3kg,3.8,220,padi petani mandiri ir64 3 kilo
+p087,Beras Organik Cap Daun 7kg,4.7,860,beras organik cap daun 7 kilo
+p088,Beras Ketan Hitam Cap Bulan 3kg,4.5,540,beras ketan hitam cap bulan 3 kilo
+p089,Padi Inpari 32 Anti Hama 3kg,4.0,340,padi inpari 32 tahan hama 3 kilo
+p090,Beras Wangi Thailand Import 7kg,4.9,1700,beras wangi thailand import 7 kilo
+p091,Beras Super Premium 7kg,4.8,1250,beras super premium 7 kilo
+p092,Padi IR64 Unggul 3kg,4.3,460,padi ir64 unggul 3 kilo
+p093,Beras Putih Cap Ayam 3kg,4.5,1080,beras putih cap ayam 3 kilo
+p094,Beras Merah Organik 5kg,4.6,720,beras merah organik 5 kilo
+p095,Padi Hibrida Inpari 33,4.0,270,padi hibrida inpari 33
+p096,Beras Hitam Ketan Organik 3kg,4.8,510,beras hitam ketan organik 3 kilo
+p097,Beras Coklat Sehat 4kg,4.4,640,beras coklat sehat 4 kilo
+p098,Padi Lokal IR42 Unggul 3kg,4.2,400,padi lokal ir42 unggul 3 kilo
+p099,Beras Putih Medium 3kg,4.3,1070,beras putih medium 3 kilo
+p100,Beras Pandan Wangi Super 3kg,4.9,1740,beras pandan wangi super 3 kilo
+p101,Padi IR42 Grade A 3kg,4.1,320,padi ir42 grade a 3 kilo
+p102,Beras Rendah Gula Cap Sehat 4kg,4.6,710,beras rendah gula cap sehat 4 kilo
+p103,Beras Organik Cap Daun 4kg,4.7,730,beras organik cap daun 4 kilo
+p104,Padi Gogo Tahan Kekeringan 3kg,3.9,250,padi gogo tahan kekeringan 3 kilo
+p105,Beras Super IR64 Cap Kupu 4kg,4.5,920,beras super ir64 cap kupu 4 kilo
+p106,Beras Putih Medium 4kg,4.2,1120,beras putih medium 4 kilo
+p107,Padi Inpari 30 Non GMO 4kg,4.0,330,padi inpari 30 non gmo 4 kilo
+p108,Beras Merah Cap Daun 3kg,4.3,530,beras merah cap daun 3 kilo
+p109,Beras Diet Sehat Kalori Rendah 3kg,4.6,600,beras diet kalori rendah 3 kilo
+p110,Padi Organik Subur Makmur 4kg,4.4,290,padi organik subur makmur 4 kilo
+p111,Beras Hitam Superfood 4kg,4.8,680,beras hitam superfood 4 kilo
+p112,Beras Pandan Wangi Cap Gajah 8kg,4.9,1920,beras pandan wangi cap gajah 8 kilo
+p113,Padi Coklat Lokal Unggul 4kg,4.1,240,padi coklat lokal unggul 4 kilo
+p114,Beras Cap Jempol Medium 8kg,4.3,900,beras cap jempol medium 8 kilo
+p115,Beras IR64 Lokal 8kg,4.2,940,beras ir64 lokal 8 kilo
+p116,Padi Petani Mandiri IR64 4kg,3.8,230,padi petani mandiri ir64 4 kilo
+p117,Beras Organik Cap Daun 8kg,4.7,870,beras organik cap daun 8 kilo
+p118,Beras Ketan Hitam Cap Bulan 4kg,4.5,550,beras ketan hitam cap bulan 4 kilo
+p119,Padi Inpari 32 Anti Hama 4kg,4.0,350,padi inpari 32 tahan hama 4 kilo
+p120,Beras Wangi Thailand Import 8kg,4.9,1750,beras wangi thailand import 8 kilo
